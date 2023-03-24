@@ -29,5 +29,6 @@ void input() {
 	}
 }
 
-void insertionsort(){}
+void insertionsort() {
+	int temp;
 	
